@@ -9,3 +9,12 @@ def sums(a,b):
 for _ in range(int(input())):
     (a,b) = map(int,input().split())
     print(sums(a,b))
+
+
+# without function
+for _ in range(int(input())):
+    D,N = map (int, input().split())
+    for i in range(D):
+        sum=N*(N+1)//2
+        N=sum
+    print(sum)

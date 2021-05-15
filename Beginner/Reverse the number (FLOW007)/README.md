@@ -1,1 +1,1 @@
-codechef.com/problems/FLOW007
+https://www.codechef.com/problems/FLOW007

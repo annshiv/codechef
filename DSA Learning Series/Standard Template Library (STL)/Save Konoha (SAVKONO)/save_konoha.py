@@ -6,7 +6,7 @@ for _ in range(int(input())):
     A = [-1*x for x in A]
     heapify(A)
     c = 0
-    while N != 0 and Z > 0:
+    while len(A) != 0 and Z > 0:
         x = -1 * heappop(A)
         Z -= x
         x = x // 2

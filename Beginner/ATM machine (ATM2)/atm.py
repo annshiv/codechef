@@ -10,3 +10,5 @@ for _ in range(int(input())):
         else:
             s += '0'
     print(s)
+
+

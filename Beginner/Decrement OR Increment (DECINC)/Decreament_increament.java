@@ -18,6 +18,8 @@ class Decreament_increament
 		}
 		else
 		{
+
+		
 		    System.out.println(num-1);
 		}
 	}

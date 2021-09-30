@@ -12,7 +12,7 @@
 
 
 
-- #### [Sign UP on CodeChef]()
+- #### [Sign UP on CodeChef](https://www.codechef.com/signup)
 - #### **Start solving** 👇
 
 

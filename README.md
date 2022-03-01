@@ -1,7 +1,7 @@
 # codechef 
 
 
-## Trying to give Complete Codechef solutions in Python, Java, C, C++, JavaScript, etc....
+## Trying to give Complete Codechef solutions in Python, Java, JavaScript, etc....
 
  
 
